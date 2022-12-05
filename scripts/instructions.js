@@ -1,7 +1,7 @@
 const statusC = document.querySelector(".status");
 const welcome = document.querySelector(".welcome");
 let gameScript = document.createElement("script");
-gameScript.setAttribute("src", "../scripts/game copy 2.js");
+gameScript.setAttribute("src", "../scripts/game.js");
 
 if (!localStorage.lightySquare) {
     const instContainer = document.querySelector(".instructions");
