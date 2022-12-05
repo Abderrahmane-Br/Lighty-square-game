@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700" height="400" viewBox="0 0 700 400">
+  <defs>
+    <clipPath id="clip-SPRK_default_preset_name_custom_1">
+      <rect width="700" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="SPRK_default_preset_name_custom_1" data-name="SPRK_default_preset_name_custom – 1" clip-path="url(#clip-SPRK_default_preset_name_custom_1)">
+    <rect width="700" height="400" fill="#1f1c1c"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(147 178)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="35" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="34" height="34" fill="none"/>
+    </g>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="700" height="29" transform="translate(0 213)" fill="#35536b"/>
+    <path id="Path_1" data-name="Path 1" d="M216,186.4s26.826-27.2,50.154,0" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Path_2" data-name="Path 2" d="M216,186.4s25.079-27.2,46.888,0" transform="translate(-147.088)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Path_3" data-name="Path 3" d="M38.74,171.195c.192,5.156-13.14,15.263-13.14,15.263s11.989,12.655,16.1,10.987" transform="translate(32.296 -1.097)" fill="none" stroke="#fcfcfc" stroke-width="2"/>
+    <path id="Path_4" data-name="Path 4" d="M274.2,170.1c6.431-.483,13.254,15.464,13.254,15.464s-15.356,3.863-16.568,12.308" transform="translate(-4.734 2.421)" fill="none" stroke="#fff" stroke-width="2"/>
+    <text id="Use_Left_and_Right_arrows_to_move_horizontally_" data-name="Use &quot;Left&quot; and &quot;Right&quot; arrows
+to move horizontally " transform="translate(165 80)" fill="#fff" font-size="16" font-family="OCRAExtended, OCR A"><tspan x="-140.129" y="0">Use &quot;Left&quot; and &quot;Right&quot; arrows</tspan><tspan x="-101.473" y="17">to move horizontally </tspan></text>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(475 100)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="35" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="34" height="34" fill="none"/>
+    </g>
+    <path id="Path_5" data-name="Path 5" d="M454.045,73.527s-4.482,35.013,0,49.578" transform="translate(-11 55)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Path_6" data-name="Path 6" d="M445.362,70.726c3.673-1.944,12.6-18.767,12.6-18.767l7.843,18.767h0" transform="translate(-11 55)" fill="none" stroke="#fff" stroke-width="2"/>
+    <text id="Use_arrow_Up_to_perform_a_jump" data-name="Use arrow
+&quot;Up&quot;
+to perform
+a jump" transform="translate(590 51)" fill="#fff" font-size="16" font-family="OCRAExtended, OCR A"><tspan x="-43.488" y="0">Use arrow</tspan><tspan x="-19.328" y="17">&quot;Up&quot;</tspan><tspan x="-48.32" y="34">to perform</tspan><tspan x="-28.992" y="51">a jump</tspan></text>
+  </g>
+</svg>

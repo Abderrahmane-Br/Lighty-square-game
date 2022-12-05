@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lighty Square</title>
+    <link rel="stylesheet" href="game.css">
+    <link rel="stylesheet" href="instructions.css">
+</head>
+
+<body>
+    <div class="frameWrapper">
+        <!-- <div class="welcome">
+            <span>Press any key to start</span>
+        </div> -->
+        <div class="welcome instruction active">
+            <div>
+                <span>__Lighty</span>
+                <span>Square.</span>
+            </div>
+            Press any key to start
+        </div>
+        <div class="instructions">
+            <div class="instruction">
+                <img src="./instruction1.svg" alt="" class="instruction__img">
+            </div>
+            <div class="instruction">
+                <img src="./Instruction2.svg" alt="" class="instruction__img">
+            </div>
+            <div class="instruction">
+                <img src="./Instruction3.svg" alt="" class="instruction__img">
+            </div>
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" width="68" height="17" viewBox="0 0 68 17" class="nextBtn">
+                    <text id="Next_-_" data-name="Next -&gt;" transform="translate(34 14)" fill="#fff" font-size="16"
+                        font-family="OCRAExtended, OCR A">
+                        <tspan x="-33.824" y="0">Next -&gt;</tspan>
+                    </text>
+                </svg>
+            </div>
+        </div>
+        <div class="status">
+            <div class="state time"></div>
+            <div class="state">
+                <span>Losses</span>
+                <div class="deaths"></div>
+            </div>
+            <div class="state">
+                <span>Coins</span>
+                <div class="coins"></div>
+            </div>
+        </div>
+        <div id="frame" class="frame">
+        </div>
+        <div id="endgame" class="endGameMenu">
+            <h2>Congratulations You Won!</h2>
+            <div class="newRecord">New Record</div>
+            <table class="score">
+                <tr>
+                    <th>
+                        <div></div>
+                    </th>
+                    <th>Time</th>
+                    <th>Losses</th>
+                </tr>
+                <tr class="highestScore">
+                    <td>Highest Score</td>
+                    <td class="bestTime"></td>
+                    <td class="bestLosses"></td>
+                </tr>
+                <tr class="yourScore">
+                    <td>Your Score</td>
+                    <td class="yourTime"></td>
+                    <td class="yourLosses"></td>
+                </tr>
+            </table>
+
+            <button class="replay">Replay</button>
+        </div>
+    </div>
+    <!-- <script src="game copy 2.js"></script> -->
+    <script src="instructions.js"></script>
+    <script src="score.js"></script>
+</body>
+
+</html>
